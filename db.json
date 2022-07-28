@@ -1,0 +1,55 @@
+{
+    "users": {
+        "org": [
+            {
+                "id": 1,
+                "username": "Recyclobekia",
+                "email": "hjgh@khkj.com",
+                "address": "nasr city, cairo",
+                "phone": "0126094231",
+                "landline": "",
+                "addressConfirmImage": "",
+                "requests": [
+                    {
+                        "req_Id": 0,
+                        "req_date": "26/07/2022",
+                        "status": 0
+                    },
+                    {
+                        "req_Id": 0,
+                        "req_date": "26/07/2022",
+                        "status": 1
+                    },
+                    {
+                        "req_Id": 0,
+                        "req_date": "26/07/2022",
+                        "status": 1
+                    }
+                ]
+            }
+        ],
+        "individual": [
+            {
+                "id": 1,
+                "name": "Mohamed",
+                "requests": [
+                    {
+                        "req_Id": 0,
+                        "req_date": "26/07/2022",
+                        "status": 0
+                    },
+                    {
+                        "req_Id": 0,
+                        "req_date": "26/07/2022",
+                        "status": 1
+                    },
+                    {
+                        "req_Id": 0,
+                        "req_date": "26/07/2022",
+                        "status": 1
+                    }
+                ]
+            }
+        ]
+    }
+}
