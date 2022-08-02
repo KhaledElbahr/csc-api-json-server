@@ -1,55 +1,138 @@
 {
-    "users": {
-        "org": [
-            {
-                "id": 1,
-                "username": "Recyclobekia",
-                "email": "hjgh@khkj.com",
-                "address": "nasr city, cairo",
-                "phone": "0126094231",
-                "landline": "",
-                "addressConfirmImage": "",
-                "requests": [
-                    {
-                        "req_Id": 0,
-                        "req_date": "26/07/2022",
-                        "status": 0
-                    },
-                    {
-                        "req_Id": 0,
-                        "req_date": "26/07/2022",
-                        "status": 1
-                    },
-                    {
-                        "req_Id": 0,
-                        "req_date": "26/07/2022",
-                        "status": 1
-                    }
-                ]
-            }
-        ],
-        "individual": [
-            {
-                "id": 1,
-                "name": "Mohamed",
-                "requests": [
-                    {
-                        "req_Id": 0,
-                        "req_date": "26/07/2022",
-                        "status": 0
-                    },
-                    {
-                        "req_Id": 0,
-                        "req_date": "26/07/2022",
-                        "status": 1
-                    },
-                    {
-                        "req_Id": 0,
-                        "req_date": "26/07/2022",
-                        "status": 1
-                    }
-                ]
-            }
+    "users": [
+      {
+        "id": "2980150400031",
+        "type": "super",
+        "name": "Super_admin",
+        "email": "csc@gmail.com",
+        "password": "158484#efHeq",
+        "city": null,
+        "zone": null,
+        "address": null,
+        "tel": null,
+        "landline": null,
+        "class": null,
+        "badge": null,
+        "rank": null,
+        "points": null,
+        "contactPersonalName": null,
+        "addressConfirmImage": null,
+        "statusVerification": null,
+        "requests": null
+      },
+      {
+        "id": "2980150400040",
+        "type": "admin",
+        "name": "khaled",
+        "email": "khaled@gmail.com",
+        "password": "158484@Fgvrg21#w",
+        "city": "cairo",
+        "zone": "nasr city",
+        "address": "Apt 4, Buliding No 2, eltahrer.St, nasr city, cairo",
+        "tel": "0152841688",
+        "landline": null,
+        "class": null,
+        "badge": null,
+        "rank": null,
+        "points": null,
+        "contactPersonalName": null,
+        "addressConfirmImage": null,
+        "statusVerification": null,
+        "requests": null
+      },
+      {
+        "id": "2980150400022",
+        "type": "admin",
+        "name": "ali",
+        "email": "ali@gmail.com",
+        "password": "1187424d@rg%g47",
+        "city": "cairo",
+        "zone": "nasr city",
+        "address": "Apt 4, Buliding No 7, elhorya.St, nasr city, cairo",
+        "tel": "0102548758",
+        "landline": null,
+        "class": null,
+        "badge": null,
+        "rank": null,
+        "points": null,
+        "contactPersonalName": null,
+        "addressConfirmImage": null,
+        "statusVerification": null,
+        "requests": null
+      },
+      {
+        "id": "96051",
+        "type": "org",
+        "name": "Recyclobekia",
+        "email": "recyclobekia@gmail.com",
+        "password": "15848Asds589#efe",
+        "city": "cairo",
+        "zone": "nasr city",
+        "address": "Apt 7, Buliding No 5, elmatar.St, nasr city, cairo",
+        "tel": "0126094231",
+        "landline": null,
+        "class": "B",
+        "badge": "green saver",
+        "rank": "100",
+        "points": "50",
+        "contactPersonalName": "ali",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "admin_Id": "2980150400022",
+            "req_Id": 0,
+            "req_date": "26/07/2022",
+            "time_slot": "02:00AM - 03:00AM",
+            "status": "pending",
+            "quantity": 10.5
+          },
+          {
+            "admin_Id": "2980150400022",
+            "req_Id": 1,
+            "req_date": "24/06/2022",
+            "time_slot": "06:00PM - 09:00PM",
+            "status": "completed",
+            "quantity": 11
+          }
         ]
-    }
+      },
+      {
+        "id": "2960150400050",
+        "type": "individual",
+        "name": "saad",
+        "email": "saad_daaw25@gmail.com",
+        "password": "14g38!weFew#Moe",
+        "city": "cairo",
+        "zone": "nasr city",
+        "address": "Apt 3, Buliding No 6, wafeek.St, nasr city, cairo",
+        "tel": "01014037844",
+        "landline": null,
+        "class": "C",
+        "badge": "green saver",
+        "rank": "150",
+        "points": "70",
+        "contactPersonalName": "saad",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "admin_Id": "2980150400040",
+            "req_Id": 0,
+            "req_date": "26/07/2022",
+            "time_slot": "02:00AM - 03:00AM",
+            "status": "pending",
+            "quantity": 9.5
+          },
+          {
+            "admin_Id": "2980150400040",
+            "req_Id": 1,
+            "req_date": "24/06/2022",
+            "time_slot": "06:00PM - 09:00PM",
+            "status": "completed",
+            "quantity": 12
+          }
+        ]
+      }
+    ]
 }
