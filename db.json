@@ -17,7 +17,7 @@
         "points": null,
         "contactPersonalName": null,
         "addressConfirmImage": null,
-        "statusVerification": null,
+        "statusVerification": null
       },
       {
         "id": "2980150400040",
@@ -36,7 +36,7 @@
         "points": null,
         "contactPersonalName": null,
         "addressConfirmImage": null,
-        "statusVerification": null,
+        "statusVerification": null
       },
       {
         "id": "2980150400022",
@@ -55,7 +55,7 @@
         "points": null,
         "contactPersonalName": null,
         "addressConfirmImage": null,
-        "statusVerification": null,
+        "statusVerification": null
       },
       {
         "id": "96051",
@@ -74,7 +74,7 @@
         "points": "50",
         "contactPersonalName": "ali",
         "addressConfirmImage": null,
-        "statusVerification": "verfied",
+        "statusVerification": "verfied"
       },
       {
         "id": "2960150400050",
@@ -93,7 +93,7 @@
         "points": "70",
         "contactPersonalName": "saad",
         "addressConfirmImage": null,
-        "statusVerification": "verfied",
+        "statusVerification": "verfied"
       }
     ],
     "requests": [
