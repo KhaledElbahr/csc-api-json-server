@@ -41,15 +41,75 @@
         "requests": null
       },
       {
-        "id": "2980150400022",
+        "id": "2925031100012",
+        "type": "admin",
+        "name": "ahmed",
+        "email": "ahmed@gmail.com",
+        "password": "158484@WcvrGs434",
+        "city": "Giza",
+        "zone": "Dokki",
+        "address": "Apt 22, Buliding No 9, elsahar.St, Dokki, Giza",
+        "tel": "01535665154",
+        "landline": null,
+        "class": null,
+        "badge": null,
+        "rank": null,
+        "points": null,
+        "contactPersonalName": null,
+        "addressConfirmImage": null,
+        "statusVerification": null,
+        "requests": null
+      },
+      {
+        "id": "2985081400030",
         "type": "admin",
         "name": "ali",
         "email": "ali@gmail.com",
         "password": "1187424d@rg%g47",
         "city": "cairo",
         "zone": "nasr city",
-        "address": "Apt 4, Buliding No 7, elhorya.St, nasr city, cairo",
+        "address": "Apt 4, Buliding No 7, elhorya.St, Al-Montazah, Alexandria",
         "tel": "0102548758",
+        "landline": null,
+        "class": null,
+        "badge": null,
+        "rank": null,
+        "points": null,
+        "contactPersonalName": null,
+        "addressConfirmImage": null,
+        "statusVerification": null,
+        "requests": null
+      },
+      {
+        "id": "2984051400010",
+        "type": "admin",
+        "name": "eyad",
+        "email": "eyad@gmail.com",
+        "password": "1126595@dfG%g13",
+        "city": "Kafr al-Sheikh",
+        "zone": "Desouk",
+        "address": "Apt 5, Buliding No 3, elgash.St, Desouk, Kafr al-Sheikh",
+        "tel": "0102548758",
+        "landline": null,
+        "class": null,
+        "badge": null,
+        "rank": null,
+        "points": null,
+        "contactPersonalName": null,
+        "addressConfirmImage": null,
+        "statusVerification": null,
+        "requests": null
+      },
+      {
+        "id": "2985051400028",
+        "type": "admin",
+        "name": "mostafa",
+        "email": "mostafa@gmail.com",
+        "password": "95878E#dwrg%g47",
+        "city": "cairo",
+        "zone": "maddi",
+        "address": "Apt 4, Buliding No 7, elhorya.St, Maddi, Cairo",
+        "tel": "01025214891",
         "landline": null,
         "class": null,
         "badge": null,
@@ -82,7 +142,7 @@
           {
             "req_Id": 0,
             "user_Id": 96051,
-            "admin_Id": "2980150400022",
+            "admin_Id": "2985081400030",
             "req_date": "13/01/2022",
             "time_slot": "02:00AM - 03:00AM",
             "status": "pending",
@@ -91,11 +151,245 @@
           {
             "req_Id": 1,
             "user_Id": 96051,
-            "admin_Id": "2980150400022",
+            "admin_Id": "2985081400030",
             "req_date": "22/03/2022",
             "time_slot": "03:00AM - 05:00AM",
             "status": "completed",
             "quantity": 8.5
+          }
+        ]
+      },
+      {
+        "id": "83225",
+        "type": "org",
+        "name": "SoftRecycling",
+        "email": "softrecycling@gmail.com",
+        "password": "354d658@91S35#efe",
+        "city": "Kafr al-Sheikh",
+        "zone": "Desouk",
+        "address": "Apt 35, Buliding No 12, elgash.St, Desouk, Kafr al-Sheikh",
+        "tel": "01124589730",
+        "landline": null,
+        "class": "B",
+        "badge": "green saver",
+        "rank": "83",
+        "points": "150",
+        "contactPersonalName": "samah",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 83225,
+            "admin_Id": "2925031100012",
+            "req_date": "22/01/2022",
+            "time_slot": "01:00AM - 04:00AM",
+            "status": "pending",
+            "quantity": 6
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 83225,
+            "admin_Id": "2925031100012",
+            "req_date": "15/03/2022",
+            "time_slot": "02:00AM - 04:00AM",
+            "status": "completed",
+            "quantity": 6.5
+          }
+        ]
+      },
+      {
+        "id": "55077",
+        "type": "org",
+        "name": "SmartRecycle",
+        "email": "smartrecycle@gmail.com",
+        "password": "sfde258Sg#epka",
+        "city": "Giza",
+        "zone": "Haram",
+        "address": "Apt 2, Buliding No 15, elmatar.St, Haram, Giza",
+        "tel": "01235642897",
+        "landline": null,
+        "class": "C",
+        "badge": "green saver",
+        "rank": "150",
+        "points": "100",
+        "contactPersonalName": "ataf",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 55077,
+            "admin_Id": "2980150400040",
+            "req_date": "03/11/2022",
+            "time_slot": "01:00PM - 03:00PM",
+            "status": "pending",
+            "quantity": 4
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 55077,
+            "admin_Id": "2980150400040",
+            "req_date": "22/03/2022",
+            "time_slot": "03:00AM - 05:00AM",
+            "status": "completed",
+            "quantity": 5
+          }
+        ]
+      },
+      {
+        "id": "64650",
+        "type": "org",
+        "name": "HealthFuture",
+        "email": "healthfuture@gmail.com",
+        "password": "tvf#23Hb9%goqa5",
+        "city": "Alexendria",
+        "zone": "borg El-Arab",
+        "address": "Apt 23, Buliding No 15, elmatar.St, borg el-arab, Alexendria",
+        "tel": "01258462305",
+        "landline": null,
+        "class": "A",
+        "badge": "green saver",
+        "rank": "50",
+        "points": "200",
+        "contactPersonalName": "khaled",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 64650,
+            "admin_Id": "2985051400028",
+            "req_date": "23/06/2022",
+            "time_slot": "04:00PM - 03:00AM",
+            "status": "pending",
+            "quantity": 7.5
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 64650,
+            "admin_Id": "2985051400028",
+            "req_date": "02/06/2022",
+            "time_slot": "04:00PM - 09:00AM",
+            "status": "completed",
+            "quantity": 8.5
+          }
+        ]
+      },
+      {
+        "id": "98102",
+        "type": "org",
+        "name": "GreenRecycle",
+        "email": "greenrecycle@gmail.com",
+        "password": "2deew84#fDer8gh567ny",
+        "city": "cairo",
+        "zone": "heliopolis",
+        "address": "Apt 37, Buliding No 2, elbonteq.St, Heliopolis, Cairo",
+        "tel": "010236589421",
+        "landline": null,
+        "class": "B",
+        "badge": "green saver",
+        "rank": "100",
+        "points": "50",
+        "contactPersonalName": "ali",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 98102,
+            "admin_Id": "2984051400010",
+            "req_date": "18/02/2022",
+            "time_slot": "02:00AM - 03:00AM",
+            "status": "pending",
+            "quantity": 11
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 98102,
+            "admin_Id": "2984051400010",
+            "req_date": "14/05/2022",
+            "time_slot": "05:00PM - 08:00PM",
+            "status": "completed",
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "id": "16145",
+        "type": "org",
+        "name": "MoneyRecycle",
+        "email": "moneyrecycle@gmail.com",
+        "password": "vkgb$54Dsvbmt%5F",
+        "city": "giza",
+        "zone": "agouza",
+        "address": "Apt 32, Buliding No 24, eljarah.St, Agouza, Giza",
+        "tel": "01024123680",
+        "landline": null,
+        "class": "B",
+        "badge": "green saver",
+        "rank": "70",
+        "points": "170",
+        "contactPersonalName": "ramy",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 16145,
+            "admin_Id": "2925031100012",
+            "req_date": "15/04/2022",
+            "time_slot": "01:00AM - 05:00AM",
+            "status": "pending",
+            "quantity": 9
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 16145,
+            "admin_Id": "2925031100012",
+            "req_date": "25/08/2022",
+            "time_slot": "01:00AM - 02:00AM",
+            "status": "completed",
+            "quantity": 4.5
+          }
+        ]
+      },
+      {
+        "id": "96034",
+        "type": "org",
+        "name": "ElectricRecycleing",
+        "email": "electricrecycleing@gmail.com",
+        "password": "vrgk$dwAeF18e",
+        "city": "Kafr al-Sheikh",
+        "zone": "qallin",
+        "address": "Apt 54, Buliding No 51, elharef.St, qallin, Kafr al-Sheikh",
+        "tel": "01035210709",
+        "landline": null,
+        "class": "B",
+        "badge": "green saver",
+        "rank": "360",
+        "points": "350",
+        "contactPersonalName": "mohamed",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 96034,
+            "admin_Id": "2980150400040",
+            "req_date": "10/05/2022",
+            "time_slot": "02:00PM - 05:00PM",
+            "status": "pending",
+            "quantity": 4
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 96034,
+            "admin_Id": "2980150400040",
+            "req_date": "02/05/2022",
+            "time_slot": "05:00AM - 08:00AM",
+            "status": "completed",
+            "quantity": 6.5
           }
         ]
       },
@@ -122,8 +416,8 @@
             "req_Id": 0,
             "user_Id": 2960150400050,
             "admin_Id": "2980150400040",
-            "req_date": "13/01/2022",
-            "time_slot": "02:00AM - 03:00AM",
+            "req_date": "18/02/2022",
+            "time_slot": "01:00AM - 04:00AM",
             "status": "pending",
             "quantity": 10.5
           },
@@ -137,44 +431,494 @@
             "quantity": 15
           }
         ]
+      },
+      {
+        "id": "296123200030",
+        "type": "individual",
+        "name": "Ibrahim",
+        "email": "ibrahim123@gmail.com",
+        "password": "TfY53#UcwNx8",
+        "city": "giza",
+        "zone": "dokki",
+        "address": "Apt 13, Buliding No 16, elkawas.St, Dokki, Giza",
+        "tel": "01205423698",
+        "landline": null,
+        "class": "B",
+        "badge": "green saver",
+        "rank": "97",
+        "points": "60",
+        "contactPersonalName": "Ibrahim",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 296123200030,
+            "admin_Id": "2925031100012",
+            "req_date": "03/03/2022",
+            "time_slot": "03:00AM - 04:00AM",
+            "status": "pending",
+            "quantity": 6
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 296123200030,
+            "admin_Id": "2925031100012",
+            "req_date": "20/05/2022",
+            "time_slot": "03:00AM - 05:00AM",
+            "status": "completed",
+            "quantity": 8
+          }
+        ]
+      },
+      {
+        "id": "296215300010",
+        "type": "individual",
+        "name": "Loai",
+        "email": "loai_madhat14@gmail.com",
+        "password": "p08e#u256$#S",
+        "city": "alexandria",
+        "zone": "el-dekhila",
+        "address": "Apt 19, Buliding No 32, el-rahma.St, El-Dekhila, Alexandria",
+        "tel": "01152846389",
+        "landline": null,
+        "class": "A",
+        "badge": "green saver",
+        "rank": "20",
+        "points": "430",
+        "contactPersonalName": "Loai",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 296215300010,
+            "admin_Id": "2984051400010",
+            "req_date": "11/06/2022",
+            "time_slot": "02:00AM - 04:00AM",
+            "status": "pending",
+            "quantity": 7
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 296215300010,
+            "admin_Id": "2984051400010",
+            "req_date": "26/08/2022",
+            "time_slot": "02:00AM - 06:00AM",
+            "status": "completed",
+            "quantity": 4
+          }
+        ]
+      },
+      {
+        "id": "2960142300021",
+        "type": "individual",
+        "name": "Tamer",
+        "email": "tamer_mohamed025@gmail.com",
+        "password": "8@RP28Z8oFaU",
+        "city": "Kafr al-Sheikh",
+        "zone": "qallin",
+        "address": "Apt 25, Buliding No 14, el-samaha.St, Qallin, Kafr Al-Sheikh",
+        "tel": "01014037844",
+        "landline": null,
+        "class": "C",
+        "badge": "green saver",
+        "rank": "150",
+        "points": "70",
+        "contactPersonalName": "Tamer",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 2960142300021,
+            "admin_Id": "2985051400028",
+            "req_date": "28/02/2022",
+            "time_slot": "06:00AM - 09:00AM",
+            "status": "pending",
+            "quantity": 9
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 2960142300021,
+            "admin_Id": "2985051400028",
+            "req_date": "24/03/2022",
+            "time_slot": "03:00AM - 05:00AM",
+            "status": "completed",
+            "quantity": 11
+          }
+        ]
+      },
+      {
+        "id": "296215300022",
+        "type": "individual",
+        "name": "Hamdy",
+        "email": "hamdy_saad35@gmail.com",
+        "password": "3cunX#*1f%20",
+        "city": "giza",
+        "zone": "agouza",
+        "address": "Apt 38, Buliding No 86, el-fadle.St, Agouza, Giza",
+        "tel": "01182023012",
+        "landline": null,
+        "class": "B",
+        "badge": "green saver",
+        "rank": "100",
+        "points": "50",
+        "contactPersonalName": "Hamdy",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 296215300022,
+            "admin_Id": "2985081400030",
+            "req_date": "29/04/2022",
+            "time_slot": "04:00AM - 08:00AM",
+            "status": "pending",
+            "quantity": 5
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 296215300022,
+            "admin_Id": "2985081400030",
+            "req_date": "15/07/2022",
+            "time_slot": "03:00AM - 05:00AM",
+            "status": "completed",
+            "quantity": 9
+          }
+        ]
+      },
+      {
+        "id": "298031400012",
+        "type": "individual",
+        "name": "Samah",
+        "email": "samah_ahmed25@gmail.com",
+        "password": "je6c18^!F@mJ",
+        "city": "cairo",
+        "zone": "old cairo",
+        "address": "Apt 3, Buliding No 6, wafeek.St, Old Cairo, Cairo",
+        "tel": "010352684960",
+        "landline": null,
+        "class": "C",
+        "badge": "green saver",
+        "rank": "150",
+        "points": "65",
+        "contactPersonalName": "Samah",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 298031400012,
+            "admin_Id": "2925031100012",
+            "req_date": "13/01/2022",
+            "time_slot": "02:00AM - 03:00AM",
+            "status": "pending",
+            "quantity": 10.5
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 298031400012,
+            "admin_Id": "2925031100012",
+            "req_date": "22/03/2022",
+            "time_slot": "03:00AM - 05:00AM",
+            "status": "completed",
+            "quantity": 15
+          }
+        ]
+      },
+      {
+        "id": "293025300041",
+        "type": "individual",
+        "name": "Mahmoud",
+        "email": "mahmod_ali512@gmail.com",
+        "password": "CX^zK195U$Hn",
+        "city": "Alexendria",
+        "zone": "al-gomrok",
+        "address": "Apt 45, Buliding No 39, jahan.St, Al-Gomrok, Alexendria",
+        "tel": "01125960531",
+        "landline": null,
+        "class": "B",
+        "badge": "green saver",
+        "rank": "86",
+        "points": "78",
+        "contactPersonalName": "Mahmoud",
+        "addressConfirmImage": null,
+        "statusVerification": "verfied",
+        "requests": [
+          {
+            "req_Id": 0,
+            "user_Id": 293025300041,
+            "admin_Id": "2985051400028",
+            "req_date": "16/01/2022",
+            "time_slot": "01:00AM - 03:00AM",
+            "status": "pending",
+            "quantity": 3
+          },
+          {
+            "req_Id": 1,
+            "user_Id": 293025300041,
+            "admin_Id": "2985051400028",
+            "req_date": "19/06/2022",
+            "time_slot": "03:00AM - 06:00AM",
+            "status": "completed",
+            "quantity": 4.5
+          }
+        ]
       }
     ],
     "requests": [
       {
-        "id": "0",
+        "req_Id": "0",
         "user_Id": 96051,
-        "admin_Id": "2980150400022",
+        "admin_Id": "2985081400030",
         "req_date": "13/01/2022",
         "time_slot": "02:00AM - 03:00AM",
         "status": "pending",
-        "quantity": 10
+        "quantity": 5
       },
       {
-        "id": "1",
+        "req_Id": "1",
         "user_Id": 96051,
-        "admin_Id": "2980150400022",
+        "admin_Id": "2985081400030",
         "req_date": "22/03/2022",
         "time_slot": "03:00AM - 05:00AM",
         "status": "completed",
         "quantity": 8.5
       },
       {
-        "id": "2",
+        "req_Id": "2",
+        "user_Id": 83225,
+        "admin_Id": "2925031100012",
+        "req_date": "22/01/2022",
+        "time_slot": "01:00AM - 04:00AM",
+        "status": "pending",
+        "quantity": 6
+      },
+      {
+        "req_Id": "3",
+        "user_Id": 83225,
+        "admin_Id": "2925031100012",
+        "req_date": "15/03/2022",
+        "time_slot": "02:00AM - 04:00AM",
+        "status": "completed",
+        "quantity": 6.5
+      },
+      {
+        "req_Id": "4",
+        "user_Id": 55077,
+        "admin_Id": "2980150400040",
+        "req_date": "03/11/2022",
+        "time_slot": "01:00PM - 03:00PM",
+        "status": "pending",
+        "quantity": 4
+      },
+      {
+        "req_Id": "5",
+        "user_Id": 55077,
+        "admin_Id": "2980150400040",
+        "req_date": "22/03/2022",
+        "time_slot": "03:00AM - 05:00AM",
+        "status": "completed",
+        "quantity": 5
+      },
+      {
+        "req_Id": "6",
+        "user_Id": 64650,
+        "admin_Id": "2985051400028",
+        "req_date": "23/06/2022",
+        "time_slot": "04:00PM - 03:00AM",
+        "status": "pending",
+        "quantity": 7.5
+      },
+      {
+        "req_Id": "7",
+        "user_Id": 64650,
+        "admin_Id": "2985051400028",
+        "req_date": "02/06/2022",
+        "time_slot": "04:00PM - 09:00AM",
+        "status": "completed",
+        "quantity": 8.5
+      },
+      {
+        "req_Id": "8",
+        "user_Id": 98102,
+        "admin_Id": "2984051400010",
+        "req_date": "18/02/2022",
+        "time_slot": "02:00AM - 03:00AM",
+        "status": "pending",
+        "quantity": 11
+      },
+      {
+        "req_Id": "9",
+        "user_Id": 98102,
+        "admin_Id": "2984051400010",
+        "req_date": "14/05/2022",
+        "time_slot": "05:00PM - 08:00PM",
+        "status": "completed",
+        "quantity": 6
+      },
+      {
+        "req_Id": "10",
+        "user_Id": 16145,
+        "admin_Id": "2925031100012",
+        "req_date": "15/04/2022",
+        "time_slot": "01:00AM - 05:00AM",
+        "status": "pending",
+        "quantity": 9
+      },
+      {
+        "req_Id": "11",
+        "user_Id": 16145,
+        "admin_Id": "2925031100012",
+        "req_date": "25/08/2022",
+        "time_slot": "01:00AM - 02:00AM",
+        "status": "completed",
+        "quantity": 4.5
+      },
+      {
+        "req_Id": "12",
+        "user_Id": 96034,
+        "admin_Id": "2980150400040",
+        "req_date": "10/05/2022",
+        "time_slot": "02:00PM - 05:00PM",
+        "status": "pending",
+        "quantity": 4
+      },
+      {
+        "req_Id": "13",
+        "user_Id": 96034,
+        "admin_Id": "2980150400040",
+        "req_date": "02/05/2022",
+        "time_slot": "05:00AM - 08:00AM",
+        "status": "completed",
+        "quantity": 6.5
+      },
+      {
+        "req_Id": "14",
         "user_Id": 2960150400050,
         "admin_Id": "2980150400040",
+        "req_date": "18/02/2022",
+        "time_slot": "01:00AM - 04:00AM",
+        "status": "pending",
+        "quantity": 10.5
+      },
+      {
+        "req_Id": "15",
+        "user_Id": 2960150400050,
+        "admin_Id": "2980150400040",
+        "req_date": "22/03/2022",
+        "time_slot": "03:00AM - 05:00AM",
+        "status": "completed",
+        "quantity": 15
+      },
+      {
+        "req_Id": "16",
+        "user_Id": 296123200030,
+        "admin_Id": "2925031100012",
+        "req_date": "03/03/2022",
+        "time_slot": "03:00AM - 04:00AM",
+        "status": "pending",
+        "quantity": 6
+      },
+      {
+        "req_Id": "17",
+        "user_Id": 296123200030,
+        "admin_Id": "2925031100012",
+        "req_date": "20/05/2022",
+        "time_slot": "03:00AM - 05:00AM",
+        "status": "completed",
+        "quantity": 8
+      },
+      {
+        "req_Id": "18",
+        "user_Id": 296215300010,
+        "admin_Id": "2984051400010",
+        "req_date": "11/06/2022",
+        "time_slot": "02:00AM - 04:00AM",
+        "status": "pending",
+        "quantity": 7
+      },
+      {
+        "req_Id": "19",
+        "user_Id": 296215300010,
+        "admin_Id": "2984051400010",
+        "req_date": "26/08/2022",
+        "time_slot": "02:00AM - 06:00AM",
+        "status": "completed",
+        "quantity": 4
+      },
+      {
+        "req_Id": "20",
+        "user_Id": 2960142300021,
+        "admin_Id": "2985051400028",
+        "req_date": "28/02/2022",
+        "time_slot": "06:00AM - 09:00AM",
+        "status": "pending",
+        "quantity": 9
+      },
+      {
+        "req_Id": "21",
+        "user_Id": 2960142300021,
+        "admin_Id": "2985051400028",
+        "req_date": "24/03/2022",
+        "time_slot": "03:00AM - 05:00AM",
+        "status": "completed",
+        "quantity": 11
+      },
+      {
+        "req_Id": "22",
+        "user_Id": 296215300022,
+        "admin_Id": "2985081400030",
+        "req_date": "29/04/2022",
+        "time_slot": "04:00AM - 08:00AM",
+        "status": "pending",
+        "quantity": 5
+      },
+      {
+        "req_Id": "23",
+        "user_Id": 296215300022,
+        "admin_Id": "2985081400030",
+        "req_date": "15/07/2022",
+        "time_slot": "03:00AM - 05:00AM",
+        "status": "completed",
+        "quantity": 9
+      },
+      {
+        "req_Id": "24",
+        "user_Id": 298031400012,
+        "admin_Id": "2925031100012",
         "req_date": "13/01/2022",
         "time_slot": "02:00AM - 03:00AM",
         "status": "pending",
         "quantity": 10.5
       },
       {
-        "id": "3",
-        "user_Id": 2960150400050,
-        "admin_Id": "2980150400040",
+        "req_Id": "25",
+        "user_Id": 298031400012,
+        "admin_Id": "2925031100012",
         "req_date": "22/03/2022",
         "time_slot": "03:00AM - 05:00AM",
         "status": "completed",
-        "quantity": 9
+        "quantity": 15
+      },
+      {
+        "req_Id": "26",
+        "user_Id": 293025300041,
+        "admin_Id": "2985051400028",
+        "req_date": "16/01/2022",
+        "time_slot": "01:00AM - 03:00AM",
+        "status": "pending",
+        "quantity": 3
+      },
+      {
+        "req_Id": "27",
+        "user_Id": 293025300041,
+        "admin_Id": "2985051400028",
+        "req_date": "19/06/2022",
+        "time_slot": "03:00AM - 06:00AM",
+        "status": "completed",
+        "quantity": 4.5
       }
     ]
 }
